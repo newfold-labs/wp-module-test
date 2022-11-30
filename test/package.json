@@ -1,0 +1,10 @@
+{
+  "name": "@newfold-labs/wp-module-test",
+  "description": "A temporary module for testing GitHub Actions",
+  "license": "GPL-2.0-or-later",
+  "private": true,
+  "author": {
+    "name": "Micah Wood",
+    "email": "micah.wood@newfold.com"
+  }
+}
